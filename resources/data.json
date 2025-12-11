@@ -19700,6 +19700,10 @@
       "Tiktok",
       "Snap"
     ]
+  },{
+    "url":"https://leetcode.com/problems/minimum-time-to-complete-all-deliveries/",
+    "title":"Minimum Time to Complete All Deliveries",
+    "companies":["Amazon"]
   },
   {
     "url": "https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/",
